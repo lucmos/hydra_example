@@ -1,0 +1,1 @@
+an_interpolated_var: "${model.name}-${data.dataset.name}"

@@ -1,0 +1,4 @@
+defaults:
+  - data: default
+  - model: mlp
+  - other: default
